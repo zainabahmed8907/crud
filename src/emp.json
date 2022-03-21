@@ -1,0 +1,35 @@
+{
+  "employees": [
+    {
+      "id": 3,
+      "employeeName": "Faisal Ali",
+      "salary": "120k",
+      "designation": "Manager",
+      "email": "faisal123@gmail.com"
+    },
+    {
+      "employeeName": "sadasd",
+      "designation": "asd",
+      "email": "sad",
+      "id": 4
+    },
+    {
+      "employeeName": "Zainab Ahmed",
+      "designation": "Developer",
+      "email": "zaahmedmughal@gmail.com",
+      "id": 5
+    },
+    {
+      "employeeName": "Maria Ahmed",
+      "designation": "HR Executive",
+      "email": "maria890@gmail.com",
+      "id": 6
+    },
+    {
+      "employeeName": "Mohsin Ahmed",
+      "designation": "Admin",
+      "email": "mohsin.ahmed890@gmail.com",
+      "id": 7
+    }
+  ]
+}
